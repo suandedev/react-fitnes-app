@@ -21,4 +21,4 @@ this is project leading page fitnes app. it was created with react and tailwindc
 - reaponsive: mobile, tablet, and desktop
 
 Please feel free to create a pull request and submit any issues!
-Currently looking for backend developers. If you would to contribute to support a backend, reach out, all ideas are welcomed!
+Currently looking for frontend developers. If you would to contribute to support a frontend, reach out, all ideas are welcomed!
